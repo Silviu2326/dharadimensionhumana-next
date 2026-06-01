@@ -16,6 +16,11 @@ export const metadata: Metadata = {
   description: "Dhara Dimensión Humana. Expertas en planes de igualdad sostenible. Creamos Igualdad con estrategia. Potenciamos el bienestar desde las empresas.",
   keywords: "planes de igualdad, consultoría RRHH, recursos humanos, bienestar empresarial, app dhara, dimensión humana",
   authors: [{ name: "Dhara Dimensión Humana" }],
+  icons: {
+    icon: "/images/logo.png",
+    shortcut: "/images/logo.png",
+    apple: "/images/logo.png",
+  },
   openGraph: {
     title: "Dhara Dimensión Humana",
     description: "Creamos Igualdad con estrategia. Potenciamos el bienestar desde las empresas.",
